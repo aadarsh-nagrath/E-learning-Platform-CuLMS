@@ -1,5 +1,6 @@
 # E-learning-Platform---CuLMS
 P2P LMS system
+![image](https://github.com/Coder-aadarsh/E-learning-Platform-CuLMS/assets/92307537/76d60fb0-29c1-43b3-b012-51642b5e162e)
 
 The proposed project aims to develop an E-Learning Website 
 using cloud computing technology. The platform will offer a 
@@ -34,6 +35,8 @@ administrators, and a User panel which is where users log in
 and are able to create their own courses for the public or can 
 consume content and courses provided by other instructors on 
 the platform.
+![image](https://github.com/Coder-aadarsh/E-learning-Platform-CuLMS/assets/92307537/cd21e83d-cb4d-45bd-a15a-4ee1edfa1f26)
+
 The Admin Panel provides various features such as –
 Category creation, edit, manipulate & delete the already 
 existing category.
@@ -62,6 +65,7 @@ Courses involve a variety of supported multimedia like – video
 format, text format, pdf, document format, etc.
 Videos can be added to the platform using three integrations, 
 namely – YouTube, Vimeo, and HTML5.
+![image](https://github.com/Coder-aadarsh/E-learning-Platform-CuLMS/assets/92307537/b72afca2-565b-4708-9088-463772f14641)
 
 ---------------------------------------------------------------------------------------
 Complete step-by-step instructions along with pictures necessary to run the project: 
