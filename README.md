@@ -82,3 +82,11 @@ As for the database of MySQL, a default db file is already imported inside the p
 some data already.
 Admin Username – admin@culearn.com
 Password – hashira
+
+#######################################################################################################################################################
+
+THIS PROJECT IS MADE BY FOLLOWING TEAM MEMBERS :
+- Aadarsh Nagrath
+- Akshat Choudhary
+- Priyanshu Srivastava
+- Anurag Kumar Jha
