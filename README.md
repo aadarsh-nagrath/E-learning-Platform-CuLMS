@@ -85,7 +85,7 @@ Password – hashira
 
 #######################################################################################
 
-THIS PROJECT IS MADE BY FOLLOWING TEAM MEMBERS :
+THIS PROJECT MODEL IS CREATED BY THE FOLLOWING TEAM MEMBERS :
 - Aadarsh Nagrath
 - Akshat Choudhary
 - Priyanshu Srivastava
